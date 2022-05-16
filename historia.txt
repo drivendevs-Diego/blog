@@ -1,0 +1,6 @@
+Hola mi nombre es Diego Greco.
+
+Esto es un ejercicio de Platzi, curso git github.
+
+Saludos...
+
