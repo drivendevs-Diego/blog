@@ -4,3 +4,4 @@ Esto es un ejercicio de Platzi, curso git github.
 
 Saludos...
 
+Es copado aunque tiene caracter.
