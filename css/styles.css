@@ -6,7 +6,8 @@ body {
 }
 #container {
  width: 70%;
- padding: 1em;
+ padding: 0em;
+ font-weight: bold;
  text-align: left;
  border: 1px solid #DDD;
  margin: 0 auto;
@@ -14,4 +15,16 @@ body {
 
 #container h1{
  font-size: 20px;
+}
+
+#cabecera {
+ background-color: #33A;
+ color: white;
+ margin: 0;
+ padding: 0.5em;
+ box-shadow: 0 2px 50px 0px rgba(0, 0, 0, 0.75);
+}
+
+#post {
+ padding :2em;
 }
